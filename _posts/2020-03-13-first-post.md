@@ -1,6 +1,6 @@
 ---
 toc: true #true
-hide: true
+hide: false
 layout: post
 description: Mission Statement
 categories: #[markdown]
