@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "First Post",
-            "content": "What I think we’re trying to do . My Favourite Delusion . My favorite delusion is that malice is greatly over-estimated. That’s it. . Second Favorite Delusion . Is that we live in a a very complex and highly inter-connected society and that without providing better data literacy tools and actually using them in public discourse, the challenge of bettering our lot will be profound. . Last Favorite Delusion . seriously? .",
+            "content": "Delusions . My Favourite Delusion . My favorite delusion is that malice is greatly over-estimated. That’s it. . Second Favorite Delusion . Is that we live in a a very complex and highly inter-connected society and that without providing better data literacy tools and actually using them in public discourse, the challenge of bettering our lot will be profound. . Last Favorite Delusion . seriously? .",
             "url": "https://josephsmann.github.io/playground/2020/03/13/first-post.html",
             "relUrl": "/2020/03/13/first-post.html",
             "date": " • Mar 13, 2020"
@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "I’m vain enough to have an “About Me” page. . I often think I have no “heros”. To this end, I’d like to recognize: . Jeremy Howard for his fastai program. and the software for this blog and his vision. | Jake Vanderplas whose contributions to open data science have been essential to my early interest and education in data science. | Richard McElreath for his Rethinking Statistics book and videos and sense of humour. | Russ Greiner and the computational psychiatry group who let me pretend to be an academic while I had the time to do so. | . I’ll probably add more but I’ve got a real short/small memory/attention span. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I’m vain enough to have an “About Me” page. . I often like to think I have no “heros”. To this end, I’d like to recognize: . Jeremy Howard @jerempyphoward for his fastai program, and the software for this blog, and his vision. . | Jake Vanderplas @jakevdp whose contributions to open data science have been essential to my early interest and education in data science. . | Richard McElreath @rlmcelreath for his Rethinking Statistics book and videos and sense of humour. . | Russ Greiner and the computational psychiatry group who let me pretend to be an academic while I had the time to do so. . | . I’ll probably add more but I’ve got a real short/small memory/attention span. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://josephsmann.github.io/playground/about/",
           "relUrl": "/about/",
           "date": ""
